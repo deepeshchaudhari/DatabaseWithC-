@@ -2,6 +2,7 @@
 Inserting and showing data of tables using MySQL  and C++.
 some setting need to be done
 header files, .dll and .a file need to be added
+
 1)header file in the include folder.
 
 2).dll file in data/debug folder
