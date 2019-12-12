@@ -1,4 +1,4 @@
-# DatabaseWithC-
+# DatabaseWithC++
 Inserting and showing data of tables using MySQL  and C++.
 some setting need to be done
 header files, .dll and .a file need to be added
